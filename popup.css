@@ -13,3 +13,13 @@ button {
     padding: 8px 15px;
     cursor: pointer;
 }
+
+#reasons {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+#reasons li {
+    margin: 6px 0;
+}
